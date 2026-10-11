@@ -1,0 +1,16 @@
+project_id = "qzdouvmgrylhhoipwhvg"
+
+[functions.flex-coach]
+verify_jwt = false
+
+[functions.exercise-lookup]
+verify_jwt = false
+
+[functions.exercise-image]
+verify_jwt = false
+
+[functions.parse-plan]
+verify_jwt = false
+
+[functions.generate-workout-v2]
+verify_jwt = false

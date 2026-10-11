@@ -1,0 +1,1 @@
+DELETE FROM public.direct_messages WHERE receiver_id NOT IN (SELECT user_id FROM public.profiles) OR sender_id NOT IN (SELECT user_id FROM public.profiles);

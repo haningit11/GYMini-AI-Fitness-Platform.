@@ -1,0 +1,1 @@
+ALTER TABLE public.body_measurements ADD CONSTRAINT body_measurements_user_date_uq UNIQUE (user_id, measured_at);

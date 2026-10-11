@@ -1,0 +1,1 @@
+ALTER TABLE public.body_measurements ADD COLUMN height numeric;

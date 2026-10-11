@@ -1,0 +1,18 @@
+{
+  "deno.enable": true,
+  "deno.disablePaths": [
+    "./src",
+    "./node_modules",
+    "./vite.config.ts",
+    "./vitest.config.ts",
+    "./tailwind.config.ts",
+    "./postcss.config.js",
+    "./eslint.config.js",
+    "./tsconfig.json",
+    "./tsconfig.app.json",
+    "./tsconfig.node.json",
+    "./components.json"
+  ],
+  "deno.importMap": "./supabase/functions/import_map.json",
+  "deno.config": "./supabase/functions/deno.json"
+}
