@@ -6,6 +6,90 @@
 
 GYMini aims to make fitness planning more accessible and motivating. Members can generate AI-assisted workout plans, import existing routines, complete guided sessions, monitor their progress, and connect with other gym members.
 
+## Project Screenshots
+
+Explore the GYMini experience, from creating an account to tracking training sessions and managing gym communities. Screenshots are captured from the senior project demonstration.
+
+### Landing Page
+![GYMini landing page](assets/screenshots/01-landing-page.png)
+
+### Member Dashboard
+![Member dashboard](assets/screenshots/08-member-dashboard.png)
+
+### AI Workout Generation
+![AI workout generator](assets/screenshots/11-ai-workout-generator.png)
+![Personalized workout plan](assets/screenshots/12-generated-plan.png)
+
+### Training, Progress & Community
+![Interactive workout session](assets/screenshots/13-workout-session.png)
+![Training progress](assets/screenshots/18-progress-overview.png)
+![Community hub](assets/screenshots/20-community-hub.png)
+
+<details>
+<summary><strong>See all 22 project screens (registration, onboarding, admin, analytics, and more)</strong></summary>
+
+#### Sign Up
+
+![Sign Up](assets/screenshots/02-sign-up.png)
+
+#### Email Verification
+
+![Email Verification](assets/screenshots/03-verification-email.png)
+
+#### Onboarding: Profile
+
+![Onboarding: Profile](assets/screenshots/04-onboarding-profile.png)
+
+#### Onboarding: Body Stats
+
+![Onboarding: Body Stats](assets/screenshots/05-onboarding-body-stats.png)
+
+#### Onboarding: Goals
+
+![Onboarding: Goals](assets/screenshots/06-onboarding-goals.png)
+
+#### Onboarding: Gym
+
+![Onboarding: Gym](assets/screenshots/07-onboarding-gym.png)
+
+#### Change Gym
+
+![Change Gym](assets/screenshots/09-change-gym.png)
+
+#### Gym Admin Dashboard
+
+![Gym Admin Dashboard](assets/screenshots/10-gym-admin-dashboard.png)
+
+#### Exercise Guide
+
+![Exercise Guide](assets/screenshots/14-exercise-guide.png)
+
+#### Import Coach Plan
+
+![Import Coach Plan](assets/screenshots/15-import-coach-plan.png)
+
+#### Training Volume Analytics
+
+![Training Volume Analytics](assets/screenshots/16-analytics-volume.png)
+
+#### Muscle Group Analytics
+
+![Muscle Group Analytics](assets/screenshots/17-analytics-insights.png)
+
+#### Strength Tracking
+
+![Strength Tracking](assets/screenshots/19-progress-strength.png)
+
+#### Leaderboard
+
+![Leaderboard](assets/screenshots/21-leaderboard.png)
+
+#### Super Admin Dashboard
+
+![Super Admin Dashboard](assets/screenshots/22-super-admin-dashboard.png)
+
+</details>
+
 ## Features
 
 - **AI workout generator:** Creates personalized multi-day routines based on fitness level, goals, equipment, and training frequency.
@@ -48,8 +132,8 @@ package.json          Scripts and dependencies
 **Prerequisites:** Node.js and npm, and a configured Supabase project with the required backend functions and environment secrets.
 
 ```bash
-git clone https://github.com/haningit11/gymini-senior-2026.git
-cd gymini-senior-2026
+git clone https://github.com/haningit11/GYMini-AI-Fitness-Platform..git
+cd GYMini-AI-Fitness-Platform.
 npm install
 ```
 
